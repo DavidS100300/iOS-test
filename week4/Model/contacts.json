@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Tom Huynh",
+    "email": "tom.huynh@rmit.edu.vn",
+    "phone": "091232522",
+    "imageName": "tom-huynh",
+    "coordinates": { "latitude": 10.729410965174186, "longitude": 106.69522548892152 }
+  },
+  {
+    "id": 2,
+    "name": "Brett Kirk",
+    "email": "brett.kirk@rmit.edu.vn",
+    "phone": "094355634",
+    "imageName": "brett-kirk",
+    "coordinates": { "latitude": 10.758256325746386, "longitude": 106.67228491141948 }
+  }
+  // Add the rest of your contacts here
+]
